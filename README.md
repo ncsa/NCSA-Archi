@@ -3,7 +3,8 @@ Pre-built NCSA Archi with plugins we need
 
 ##
 [Download](https://github.com/ncsa/NCSA-Archi/archive/refs/heads/main.zip)
-You'll need to allow the app to run by going to System Preferences > Security & Privacy > General
+
+You'll need to allow the app to run for the first time by going to System Preferences > Security & Privacy > General
 
 Includes:
 |Component|Version|
